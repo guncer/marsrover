@@ -1,0 +1,12 @@
+c:\users\secakir\documents\visual studio 2015\Projects\marsrover\marsrover\bin\Debug\marsrover.exe.config
+c:\users\secakir\documents\visual studio 2015\Projects\marsrover\marsrover\bin\Debug\marsrover.exe
+c:\users\secakir\documents\visual studio 2015\Projects\marsrover\marsrover\bin\Debug\marsrover.pdb
+c:\users\secakir\documents\visual studio 2015\Projects\marsrover\marsrover\obj\Debug\marsrover.csprojResolveAssemblyReference.cache
+c:\users\secakir\documents\visual studio 2015\Projects\marsrover\marsrover\obj\Debug\marsrover.exe
+c:\users\secakir\documents\visual studio 2015\Projects\marsrover\marsrover\obj\Debug\marsrover.pdb
+C:\git\marsrover\marsrover\bin\Debug\marsrover.exe.config
+C:\git\marsrover\marsrover\obj\Debug\marsrover.exe
+C:\git\marsrover\marsrover\obj\Debug\marsrover.pdb
+C:\git\marsrover\marsrover\bin\Debug\marsrover.exe
+C:\git\marsrover\marsrover\bin\Debug\marsrover.pdb
+C:\git\marsrover\marsrover\obj\Debug\marsrover.csprojResolveAssemblyReference.cache
